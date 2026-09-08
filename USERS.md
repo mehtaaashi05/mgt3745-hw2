@@ -32,6 +32,6 @@ JOB-02: When I want to learn about a team I am curious about, I want to find som
 ## Two user profiles
 PROFILE-01 — The Hesitant Explorer: Becomes curious about another team within the first few weeks, with no connection into it yet (known). Wants to learn about the work without it reading as dissatisfaction (known). Currently limited to asking peers, yielding incomplete, secondhand information (assumed). How long the hesitation typically lasts is inferred.
 
-PROFILE-02 — The Proactive Outreacher: Reaches out directly to junior team members on the team of interest, without prior connection, to ask questions and shadow informally (known). Wants firsthand validation before formally pursuing a move, without waiting for an introduction (known). Depends on cold outreach being well-received — this worked for INT-02 (known). Whether it holds with more senior contacts, or outside corporate banking, is inferred.
+PROFILE-02 — The Proactive Outreacher: Reaches out directly to junior team members on the team of interest, without prior connection, to ask questions and shadow informally (known). Wants firsthand validation before formally pursuing a move, without waiting for an introduction (known). Depends on cold outreach being well-received. Whether it holds with more senior contacts, or outside corporate banking, is inferred.
 
 Two exploratory interviews do not establish population prevalence; broader claims would need more interviews.
