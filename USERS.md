@@ -9,7 +9,7 @@ INT-01 described two contrasting interns: one built an informal connection with 
 
 Reported: Most managers "understand that interns are exploring their careers"; fear of looking disloyal is "more of a concern than something that necessarily happens." No formal process exists to "test out" another team. Observed: Successful explorers started with an informal conversation, not a formal transfer request. Inferred: How the ask is framed ("tell me what your team does?" vs. "I want to move to credit") affects perceived risk more than who is asked.
 
-Surprises: risk was perceived more than enforced; success came from informal framing, not formal channels.
+Surprises: risk was perceived more than enforced; success came from informal framing.
 
 Evidence: Confirms interns perceive reputational risk. Challenges the assumption that the risk is materially enforced by managers.
 
